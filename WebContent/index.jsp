@@ -1,0 +1,1 @@
+<jsp:forward page="todoList.html"></jsp:forward> 
